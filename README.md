@@ -4,7 +4,7 @@ This data repository contains code for an ocean data course (OEAS895) at Old Dom
 All files necessary to run the code in this repository is included within.
 The repository contains the following contents:
 
-1. Combined_List_R_UPDATED_HEADERS.csv - This .csv file contains all of the combined data for this project; nitrogen samples, YSI 6600 V2 sonde measurements, wind speed/direction data, daily precipitation totals, and tidal height. The units for these variables are as follows:
+1. Combined_List_R_UPDATED_HEADERS.csv - This .csv file contains all of the combined data for this project; nitrogen samples, YSI 6600 V2 sonde measurements, wind speed/direction data, daily precipitation totals, and tidal height. NaN values are included for no probe or verified poor values. The detection limit for DIN is 0.14 uM and is displayed as such in the file. The units for these variables are as follows:
 		
 		* Date: M/D/YYYY
 		* Month: M
