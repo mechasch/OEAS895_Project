@@ -39,5 +39,11 @@ The repository contains the following contents:
 
 Future use: The plan for this model is to be used alongside moored YSI sondes at the Norfolk Yacht and Country Club (NYCC), Ashland Circle (AC), tidal height data, and climatological data to determine DIN concentrations when we are not sampling in the field. Theoretically, this model will be very useful for DIN in the summer months, but could eventually be expanded to cover each season.
 
+This model is unique to the Chesapeake Bay estuary and should be used with caution on other systems.
+
+Tidal data available: https://tidesandcurrents.noaa.gov/stationhome.html?id=8638610
+
+Wind and precipitation data available at: https://www.ncdc.noaa.gov/cdo-web/datasets/LCD/stations/WBAN:13737/detail
+
 For questions, please email Michael Echevarria @ meche002@odu.edu
 
